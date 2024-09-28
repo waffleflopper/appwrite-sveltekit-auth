@@ -1,4 +1,4 @@
-## SvelteKit with Server-Side Appwrite Authentication
+## SvelteKit+Typescript with Server-Side Appwrite Authentication
 
 Template for Sveltekit and Appwrite Authentication (should be easy to throw in your databases and such).  This uses server hooks to protect routes and form actions (progressive enhancement, yay!) for registering, logging in and logging out users.
 
